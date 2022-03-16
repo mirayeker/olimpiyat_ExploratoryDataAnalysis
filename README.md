@@ -54,3 +54,16 @@
   import numpy as np
 }
 ```
+## Data Visualization 
+- Saçılım Grafiği
+- Çizgi Grafiği
+- Histogram Grafiği
+- Çubuk Grafiği
+- Kutu Grafiği
+- Isı Haritası
+- Keman Grafiği
+- Ortaklık Grafiği
+- Çift/Eş Grafiği
+### GÖrselleştirme için Kullanılan Kütüphaneler 
+-Seaborn
+-Matplotlib
