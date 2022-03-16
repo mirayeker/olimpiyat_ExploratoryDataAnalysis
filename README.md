@@ -65,5 +65,5 @@
 - Ortaklık Grafiği
 - Çift/Eş Grafiği
 ### GÖrselleştirme için Kullanılan Kütüphaneler 
--Seaborn
--Matplotlib
+- Seaborn
+- Matplotlib
