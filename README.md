@@ -39,9 +39,9 @@
 - aykırı değer tespiti ve işlemleri
 - IQR( IQR = Inter Quartile Range) hesaplamsı
 6. Zaman Serilerinde Veri Analizi
--yıllara göre boy, yaş,kilo değişimi
--yıllara göre madalya değişimi
--yıllara ve sezonlara göre madalya sayilari 
+- yıllara göre boy, yaş,kilo değişimi
+- yıllara göre madalya değişimi
+- yıllara ve sezonlara göre madalya sayilari 
 
 ### Kullanılan Kütüphaneler ve Yüklemeleri
 - Pandas
