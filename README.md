@@ -64,6 +64,6 @@
 - Keman Grafiği
 - Ortaklık Grafiği
 - Çift/Eş Grafiği
-### GÖrselleştirme için Kullanılan Kütüphaneler 
+### Görselleştirme için Kullanılan Kütüphaneler 
 - Seaborn
 - Matplotlib
